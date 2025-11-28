@@ -19,7 +19,7 @@ class exemplo extends StatelessWidget {
           Container(
             height: 200,
             width: 200,
-            color: Colors.red,
+            color: Colors.purple,
             child: Center(
               child: Container(
                 height: 50,
